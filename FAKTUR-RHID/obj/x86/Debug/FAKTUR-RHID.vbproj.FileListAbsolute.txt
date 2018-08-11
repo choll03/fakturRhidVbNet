@@ -1,0 +1,16 @@
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\bin\Debug\FAKTUR-RHID.exe
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\bin\Debug\FAKTUR-RHID.pdb
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\bin\Debug\FAKTUR-RHID.xml
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\obj\x86\Debug\FAKTUR-RHID.exe
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\obj\x86\Debug\FAKTUR-RHID.xml
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\obj\x86\Debug\FAKTUR-RHID.pdb
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\bin\Debug\FAKTUR-RHID.exe.config
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\Tugas\RHID\FAKTUR-RHID\FAKTUR-RHID\obj\x86\Debug\WindowsApplication1.Form5.resources
